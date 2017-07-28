@@ -1,1 +1,2 @@
 # lojinha
+Projetos do Java.
